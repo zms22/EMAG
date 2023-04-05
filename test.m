@@ -1,0 +1,1 @@
+[C, G, I, V] = CapactiorStatics("P", "Air", 1.5, 12, 1, 1,0, 0, 0)
